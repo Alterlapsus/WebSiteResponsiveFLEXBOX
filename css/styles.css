@@ -19,19 +19,32 @@ body {
 
 /* header section */
 .header {
+    background: linear-gradient(#FF4F95,#FB6F68);
+}
+
+.header .container{
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .header .header-info {
-    width: 50%;
+    width: 45%;
     color: white;
 }
 
 .header .header-image {
-
+    width: 45%;
 }
 
+.header-info__title {
+    font-size: 4rem;
+}
+
+.header-info__subtitle {
+    font-size: 1.5rem;
+    font-weight: 300;
+}
 
 
 
