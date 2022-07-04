@@ -22,23 +22,23 @@ body {
     background: linear-gradient(#FF4F95,#FB6F68);
 }
 
-.header .container{
+.header .container, .footer .container{
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 80px 0;
 }
 
-.header .header-info {
+.header-info , .footer-info{
     width: 45%;
     color: white;
 }
 
-.header .header-image {
+.header-image, .footer-image {
     width: 45%;
 }
 
-.header .header-image img {
+.header-image img, .footer-image img {
     max-width: 80%;
     display: block;
     margin: 0 auto;
@@ -97,3 +97,33 @@ body {
 }
 
 /* section portfolio */
+
+
+
+
+/* footer */
+
+.footer {
+    background-color: #FE6F68;
+}
+
+.footer-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer-info__title {
+    font-size: 3rem;
+}
+
+.footer-info__links a {
+    display: inline;
+    font-size: 0.75rem;
+    color: white;
+    margin: 0 5px;
+}
+
+.footer-info__copyright {
+    font-size: 0.75rem;
+}
