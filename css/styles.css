@@ -26,6 +26,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 80px 0;
 }
 
 .header .header-info {
@@ -35,6 +36,12 @@ body {
 
 .header .header-image {
     width: 45%;
+}
+
+.header .header-image img {
+    max-width: 80%;
+    display: block;
+    margin: 0 auto;
 }
 
 .header-info__title {
