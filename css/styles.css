@@ -29,26 +29,27 @@ body {
     padding: 80px 0;
 }
 
-.header .header-info {
+.header__texts{
     width: 45%;
     color: white;
 }
 
-.header .header-image {
+.header__image {
     width: 45%;
+    margin: 0;
 }
 
-.header .header-image img {
+.header__picture {
     max-width: 80%;
     display: block;
     margin: 0 auto;
 }
 
-.header-info__title {
+.header__title {
     font-size: 4rem;
 }
 
-.header-info__subtitle {
+.header__subtitle {
     font-size: 1.5rem;
     font-weight: 300;
 }
@@ -97,6 +98,10 @@ body {
 }
 
 /* section portfolio */
+
+
+
+
 .portfolio{
     background-color: var(--color-bg);
 }
@@ -154,3 +159,58 @@ body {
 
 
 
+
+
+
+
+
+/* footer */
+
+.footer {
+    background-color: #FE6F68;
+}
+
+
+.footer .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 80px 0;
+}
+
+.footer-info{
+    width: 45%;
+    color: white;
+}
+
+.footer__image {
+    width: 45%;
+    margin: 0;
+}
+
+.footer__picture {
+    max-width: 80%;
+    display: block;
+    margin: 0 auto;
+}
+
+.footer__texts {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer__title {
+    font-size: 3rem;
+}
+
+.footer__links a {
+    display: inline;
+    font-size: 0.75rem;
+    color: white;
+    margin: 0 5px;
+}
+
+.footer__copyright {
+    font-size: 0.75rem;
+}
