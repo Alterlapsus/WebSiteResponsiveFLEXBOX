@@ -1,22 +1,35 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
 
-*{
-    outline:3px solid red;
+* {
+    outline: 3px solid red;
 }
 
-:root{
+:root {
     --padding-container: 80px 0;
     --color-primary: #f77062;
     --color-secondary: #1b998b;
     --color-bg: #fafafa;
     --align-title: center;
-    --box-shadow: 0 0 12px rgba(0,0,0, .2);
+    --box-shadow: 0 0 12px rgba(0, 0, 0, .2);
 }
 
-body{
+body {
     font-family: 'Lato', sans-serif;
 }
 
+/* header section */
+.header {
+    display: flex;
+    justify-content: space-between;
+}
 
+.header .header-info {
+    width: 50%;
+    color: white;
+}
+
+.header .header-image {
+
+}
 
 /* about section */
