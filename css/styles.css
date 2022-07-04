@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
 
 *{
-    /* outline:3px solid red; */
+    outline:3px solid red;
 }
 
 :root{
@@ -17,3 +17,6 @@ body{
     font-family: 'Lato', sans-serif;
 }
 
+
+
+/* about section */
