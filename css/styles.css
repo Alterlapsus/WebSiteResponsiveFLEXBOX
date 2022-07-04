@@ -19,4 +19,56 @@ body{
 
 
 
-/* about section */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container{
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.about{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.about__title{
+    font-size: 2.5rem;
+    color: var(--color-primary);
+}
+.about__img{
+    width: 45%;
+    text-align: center;
+    margin: 0;
+}
+.about__picture{
+    max-width: 80%;
+}
+.about__texts{
+    width: 50%;
+}
+.about__paragraph{
+    line-height: 1.5;
+}
+.about__cta{
+    display: inline-block;
+    background-color: var(--color-primary);
+    color: #fff;
+    text-decoration: none;
+    padding: 20px 40px;
+    margin-top: 20px;
+    border-radius: 30px;
+}
