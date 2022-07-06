@@ -346,6 +346,25 @@ body {
     .about__picture{
         max-width: 100%;
     }
+    /* section portfolio */
+
+    .portfolio__card{
+        width: 90%;
+        max-width: 300px;
+        margin-top: 1rem;
+    }
+
+    /* section gallery */
+    .gallery__picture{
+        width: 90%;
+        max-width: 300px;
+    }
+
+    /* section languages */
+    .languages__container{
+        justify-content: space-between;
+    }
+    
 }
 
 
