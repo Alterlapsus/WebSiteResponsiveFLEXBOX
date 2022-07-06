@@ -10,4 +10,12 @@ Se aprenderá a:
 - Maquetación 
 - Metedología BEM
 - Creación de CARDS 
-- Uso de iconos
+- Diseños Adaptables 
+- Desktop First 
+
+---
+
+Equipo: 
+
+- Israel De León 
+- Carlos Ramirez
