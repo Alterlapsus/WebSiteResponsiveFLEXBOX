@@ -398,11 +398,15 @@ body {
         width: 70%;
     }
 
+    /* .about section */
+    .about__img {
+        width: 100%;
+    }
 
     /* .portfolio section */
     .portfolio__card {
         width: 100%;
-        margin: 10%;
+        margin: 5% 0;
     }
 
     /* gallery section */
@@ -413,6 +417,10 @@ body {
 
 
     /* .languages section */
+    .languages__container {
+        justify-content: center;
+    }
+
     .languages__picture {
         width: 40%;
         margin: 10% 0;
