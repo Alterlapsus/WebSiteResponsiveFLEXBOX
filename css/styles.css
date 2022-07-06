@@ -389,6 +389,7 @@ body {
     /* gallery section */
     .gallery__picture {
         width: 100%;
+        margin: 5%;
     }
 
 
