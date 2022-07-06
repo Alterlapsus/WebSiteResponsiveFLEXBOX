@@ -309,6 +309,12 @@ body {
         justify-content: center;
         flex-wrap: wrap-reverse;
     }
+    .header__texts{
+        width: 100%;
+    }
+    .header__title{
+        font-size: 3.5rem;
+    }
     
 
     /* about section */
