@@ -347,3 +347,55 @@ body {
         max-width: 100%;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 550px) {
+    .header .container {
+        font-size: 3rem;
+    }
+
+    .header__image {
+        width: 70%;
+    }
+
+
+    /* .portfolio section */
+    .portfolio__card {
+        width: 100%;
+        margin: 10%;
+    }
+
+    /* gallery section */
+    .gallery__picture {
+        width: 100%;
+    }
+
+
+    /* .languages section */
+    .languages__picture {
+        width: 40%;
+        margin: 10% 0;
+    }
+
+}
