@@ -315,7 +315,13 @@ body {
     .header__title{
         font-size: 3.5rem;
     }
-    
+    .header__image{
+        display: block;
+        margin-bottom: 40px;
+    }
+    .header__picture{
+        max-width: 85%;
+    }
 
     /* about section */
 }
