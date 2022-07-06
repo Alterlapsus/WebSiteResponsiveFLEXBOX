@@ -297,3 +297,31 @@ body {
 
 /* responsive 800px */
 
+@media screen and (max-width: 800px) {
+    .header{
+        padding: .1px;
+        height: auto;
+        min-height: 100vh;
+        --padding-container: 40px 0;
+    }
+    .header .container{
+        margin-top: 10%;
+        justify-content: center;
+        flex-wrap: wrap-reverse;
+    }
+    .header__texts{
+        width: 100%;
+    }
+    .header__title{
+        font-size: 3.5rem;
+    }
+    .header__image{
+        display: block;
+        margin-bottom: 40px;
+    }
+    .header__picture{
+        max-width: 85%;
+    }
+
+    /* about section */
+}
