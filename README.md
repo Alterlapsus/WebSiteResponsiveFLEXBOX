@@ -15,7 +15,7 @@ Se aprenderá a:
 
 ---
 
-Equipo: 
+Realizado por: 
 
 - Israel De León 
 - Carlos Ramirez
