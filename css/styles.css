@@ -324,6 +324,28 @@ body {
     }
 
     /* about section */
+    .about__texts{
+        width: 100%;
+    }
+    .about__title{
+        text-align: var(--align-title);
+    }
+    .about__paragraph{
+        width: 90%;
+        margin: 0 auto;
+        text-align: justify;
+    }
+    .about__cta{
+        margin-left: 38%;
+    }
+    .about__img{
+        width: 85%;
+        margin: 0 auto;
+        margin-top: 3rem;
+    }
+    .about__picture{
+        max-width: 100%;
+    }
 }
 
 
