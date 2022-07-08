@@ -15,6 +15,16 @@ Se aprenderá a:
 
 ---
 
+Enlace para visualizar sitio web: 
+https://developeralter.netlify.app/
+
+---
+
+Descarga de archivos 
+- git 
+- git clone https://github.com/Alterlapsus/WebSite-Responsive-FLEXBOX.git
+
+---
 Realizado por: 
 
 - Israel De León 
