@@ -17,7 +17,7 @@ Se busca mejorar en:
 ---
 
 Enlace para visualizar sitio web: 
-https://developeralter.netlify.app/
+- <a href="https://developeralter.netlify.app/"  target="_blank">SitioWEB</a>
 
 ---
 
