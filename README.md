@@ -17,11 +17,13 @@ Se busca mejorar en:
 ---
 
 Enlace para visualizar sitio web: 
+
 - <a href="https://developeralter.netlify.app/"  target="_blank">SitioWEB</a>
 
 ---
 
 Descarga de archivos 
+
 - git 
 - git clone https://github.com/Alterlapsus/WebSite-Responsive-FLEXBOX.git
 
