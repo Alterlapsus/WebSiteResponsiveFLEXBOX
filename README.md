@@ -3,7 +3,8 @@ Se crea un espacio de trabajo para poder practicar con un website los conocimien
 
 ---
 
-Se aprenderá a: 
+Se busca mejorar en:
+
 - Utilizar GIT y GITHUB
 - Trabajo en Equipo
 - Solucinar errores
